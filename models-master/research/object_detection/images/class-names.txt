@@ -1,7 +1,7 @@
 hiz_30
 hiz_20
 dur
-sag_donulmez
+saga_donulmez
 saga_don
 girilmez
 park
