@@ -1,0 +1,40 @@
+item {
+  id:1
+  name:'hiz_30'
+}
+item {
+  id:2
+  name:'hiz_20'
+}
+item {
+  id:3
+  name:'dur'
+}
+item {
+  id:4
+  name:'sag_donulmez'
+}
+item {
+  id:5
+  name:'saga_don'
+}
+item {
+  id:6
+  name:'girilmez'
+}
+item {
+  id:7
+  name:'park'
+}
+item {
+  id:8
+  name:'park_yapilmaz'
+}
+item {
+  id:9
+  name:'sola_donulmez'
+}
+item {
+  id:10
+  name:'ileri_sola'
+}

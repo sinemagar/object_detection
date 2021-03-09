@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>00668.jpg</filename>
+	<path>C:\Object_detection\models-master\research\object_detection\images\test\00668.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hiz_20</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>34</ymin>
+			<xmax>327</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>

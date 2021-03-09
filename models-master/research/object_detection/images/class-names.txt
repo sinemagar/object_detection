@@ -1,0 +1,10 @@
+hiz_30
+hiz_20
+dur
+sag_donulmez
+saga_don
+girilmez
+park
+park_yapilmaz
+sola_donulmez
+ileri_sola

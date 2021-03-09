@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>04434.jpg</filename>
+	<path>C:\Object_detection\models-master\research\object_detection\images\train\04434.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>park</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>6</ymin>
+			<xmax>400</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+</annotation>

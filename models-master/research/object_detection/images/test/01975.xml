@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>01975.jpg</filename>
+	<path>C:\Object_detection\models-master\research\object_detection\images\test\01975.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saga_donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>530</xmin>
+			<ymin>14</ymin>
+			<xmax>615</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>

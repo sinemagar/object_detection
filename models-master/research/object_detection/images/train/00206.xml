@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>00206.jpg</filename>
+	<path>C:\Object_detection\models-master\research\object_detection\images\train\00206.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hiz_30</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>653</xmin>
+			<ymin>1</ymin>
+			<xmax>720</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>
